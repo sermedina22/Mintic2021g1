@@ -70,7 +70,7 @@ h1,h2,h3{
 .sergio {
     font-family: Lobster;
     font-size: 14px;
-    color:blue !important;
+    color:gray !important;
     border-color: blue;
     border-width: 10px;
     border-style: solid;
